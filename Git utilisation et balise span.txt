@@ -6,6 +6,8 @@ git push (pour envoyer au serveur)
 
 Pour voir sur quel serveur et dossier on se trouve taper git remote -v
 
+CHARMAP POUR TOUS LES CARACTERES SPECIAUX, pour faire le logo © il faut rester appuyer sur alt tout en écrivant 0169 puis relâcher.
+
 
 toujours faire alt shift F pour que ce soit plus lisible
 
