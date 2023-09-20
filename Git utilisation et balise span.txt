@@ -1,0 +1,24 @@
+Pour faire un commit
+
+git add * (étoile pour tout ajouter)
+git commit -m ''nom du commit" (à partir de là le commit a été créé mais n'est pas encore envoyé sur github''
+git push (pour envoyer au serveur)
+
+Pour voir sur quel serveur et dossier on se trouve taper git remote -v
+
+
+toujours faire alt shift F pour que ce soit plus lisible
+
+
+Balise <span> pour ne pas passer à la ligne
+
+Pour mettre un texte tout en haut à droite d'une div, il faut que le texte est une pos:absolute puis le top et le right de 0, mais la div dans lequel il se trouve doit avoir une position relative sinon ça ne fonctionne pas.
+
+poisition absolue= ne bouge pas
+relative= bouge en fonction de l'écran
+
+tympanus.net pour des images
+
+fill = remplir une image, exemple: <p>FOLLOW OUR MISSION</p> <svg fill="white" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 320 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg>
+
+

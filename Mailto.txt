@@ -1,0 +1,10 @@
+FreeCodeCamp pour apprendre
+mdn web docs- pour avoir plein de sources pour du code
+
+Créer un repository sur github permettant d'avoir des backups, aller sur git hub créer un repository et suivres les instructions via le terminal de visual studio code. Il faut télécharger git bash avant toute chose.
+
+ColorZilla pour récupérer les couleurs
+
+<a href="resssources.planning.pdf target=blank" pour pouvoir faire un lien et le blank pour pouvoir l'ouvrir sans fermer le site. (on peut mettre aussi des fichier zip ou rar)
+
+utiliser mailto pour amener le client sur l'adresse mail voulu en cliquant dessus
